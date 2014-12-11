@@ -1,1 +1,1 @@
-ritzfizz==0.4
+ritzfizz
